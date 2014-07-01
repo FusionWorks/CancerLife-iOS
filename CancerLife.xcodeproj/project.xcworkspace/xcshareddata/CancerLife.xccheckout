@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AF269D93-8D83-4F62-8B8F-3BFC958C5AB3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CancerLife</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>31524BF8-38B7-4D9A-A707-C2CF0D71DCDB</key>
+		<string>https://www.katit.com/svn/idattlc/iOSCode</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CancerLife/CancerLife.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>31524BF8-38B7-4D9A-A707-C2CF0D71DCDB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>31524BF8-38B7-4D9A-A707-C2CF0D71DCDB</key>
+		<string>https://www.katit.com/svn/idattlc</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://www.katit.com/svn/idattlc/iOSCode/CancerLife/CancerLife.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>31524BF8-38B7-4D9A-A707-C2CF0D71DCDB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>31524BF8-38B7-4D9A-A707-C2CF0D71DCDB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>newProjects</string>
+		</dict>
+	</array>
+</dict>
+</plist>

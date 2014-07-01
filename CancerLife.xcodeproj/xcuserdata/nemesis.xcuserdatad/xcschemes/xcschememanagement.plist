@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CancerLife copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>CancerLife.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0A6F13F91849EF33004F57F4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0A6F14151849EF33004F57F4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0A6F142A1849F028004F57F4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0AFF016717F1D49B00B8807F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0AFF018817F1D49B00B8807F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
